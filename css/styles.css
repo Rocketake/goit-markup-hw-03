@@ -63,8 +63,6 @@ body {
 }
 
 .nav-link {
-  padding-top: 24px;
-  padding-bottom: 24px;
   display: block;
 
   font-weight: 500;
@@ -83,7 +81,6 @@ body {
   display: flex;
   align-items: center;
   padding-left: 0;
-  margin-left: 332px;
 }
 
 .address-list .mail {
@@ -99,6 +96,7 @@ body {
 }
 .address {
   font-style: normal;
+  margin-left: 332px;
 }
 .address-link {
   padding-top: 24px;
@@ -214,13 +212,10 @@ body {
   display: flex;
   gap: 24px;
   padding-left: 0;
-  padding-bottom: 120px;
 }
 
 .list-container {
-  max-width: 232px;
   padding: 32px 16px;
-  margin: 0;
   text-align: center;
   border-radius: 0px 0px 4px 4px;
 }
@@ -366,7 +361,6 @@ body {
 }
 
 .works-container {
-  max-width: 360px;
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
