@@ -166,7 +166,7 @@ body {
 }
 
 .features-list .item {
-  width: calc((100% - 3 * 24px) / 4);
+  flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .features-subtitle {
@@ -311,7 +311,7 @@ body {
   justify-content: center;
   gap: 24px;
   padding-left: 0;
-  margin-bottom: 76px;
+  margin-bottom: 72px;
 }
 
 .button-filter {
